@@ -1,0 +1,130 @@
+{
+ "sections": [
+  {
+   "id": "de98bddf-b74d-5f8a-6b50-9e7e6c71f3dd",
+   "title": "Abstraction & Hierarchy ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Abstraction---Hierarchy--de98.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d5f660a0-d174-72cb-5297-9dd7792bef7f",
+   "title": "Abstraction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Abstraction-d5f6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dd0d03eb-4d3e-b731-05e2-8ae1979f9756",
+   "title": "Machine Code vs. High Level Languages",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Machine-Code-vs--High-Level-Languages-dd0d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "04008663-7f71-0c96-c01c-713e19a7e87d",
+   "title": "Binary Numbers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-Numbers-0400.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1b859f50-b40f-bae6-3a39-34aee53c20f4",
+   "title": "Binary to Hexadecimal",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-to-Hexadecimal-1b85.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3a9a7127-8baa-a3de-1db8-da97a8702366",
+   "title": "Hex in Context",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hex-in-Context-3a9a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8f5ad4b7-1624-0290-3141-292ea8d65325",
+   "title": "Binary Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-Quiz-8f5a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "29e01afc-da4c-f908-cf4c-c6f0da4e6f3f",
+   "title": "Logic Gates",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Logic-Gates-29e0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "762ee9dd-67aa-521a-5b19-8def823a1595",
+   "title": "Complex Circuits",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Complex-Circuits-762e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b9ac6f88-2637-1739-a1d7-5e9ed1b90a8d",
+   "title": "Circuits Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Circuits-Quiz-b9ac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}
